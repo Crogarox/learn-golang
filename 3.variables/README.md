@@ -1,0 +1,1 @@
+-  The var statement declares a list of variables; as in function argument lists, the type is last. 
